@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kalash Thakare</h1>
-<image align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/49/c6/e1/49c6e1672b1f53fcd21d17ebebeabab1.jpg">
+
 - 🔭 Currently working on **Blog Application**
 
 - 💬 Ask me about **MERN**
