@@ -2,7 +2,6 @@
 
 - 🔭 Currently working on **Blog Application**
 
-- 💬 Ask me about **MERN**
 
 - 📫 reach me at **kalashthakare898@gmail.com**
 
