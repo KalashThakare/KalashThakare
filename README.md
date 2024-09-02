@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kalash Thakare</h1>
 
-- 🔭 Currently working on **Blog Application**
+- 🔭 Currently working on **Portfolio**
 
 
 - 📫 reach me at **kalashthakare898@gmail.com**
