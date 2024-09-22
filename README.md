@@ -11,7 +11,7 @@
 </p>
 <h3 align="left">Work with me:</h3>
 <p align="left">
-<a href="https://portfolio-gules-chi-84.vercel.app/" target="blank"></a>
+<a href="https://portfolio-gules-chi-84.vercel.app/" target="blank">https://portfolio-gules-chi-84.vercel.app/</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
