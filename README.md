@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kalash Thakare</h1>
 
-- 🔭 Currently focusing on **Building a full Stack Subscription-based Food Service platform**
+- 🔭 Currently focusing on **Building a full Stack**
 
 
 - 📫 reach me at **kalashthakare898@gmail.com**
