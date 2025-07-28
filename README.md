@@ -5,7 +5,7 @@
 
 ### 🔍 About Me
 
-- 🔭 Currently building: **Cloud-Drop** – A secure file sharing & real-time collaboration SaaS  
+- 🔭 Currently Building: **CodeHealth AI** – AI-Powered Technical Debt Assessment & Code Health Platform  
 - 🌱 Exploring: Advanced cloud architecture, IAM delegation, and scalable chat systems  
 - 📫 Email: **kalashthakare898@gmail.com**  
 - 📄 Resume: [Click Here](https://portfolio-gules-chi-84.vercel.app/resume/resume.pdf)  
