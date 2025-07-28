@@ -9,7 +9,7 @@
 - 🌱 Exploring: Advanced cloud architecture, IAM delegation, and scalable chat systems  
 - 📫 Email: **kalashthakare898@gmail.com**  
 - 📄 Resume: [Click Here](https://portfolio-gules-chi-84.vercel.app/resume/resume.pdf)  
-- 🌐 Portfolio: [https://portfolio-gules-chi-84.vercel.app](https://portfolio-gules-chi-84.vercel.app)
+- 🌐 Portfolio: [Click Here](https://portfolio-gules-chi-84.vercel.app)
 
 ---
 
