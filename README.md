@@ -17,7 +17,7 @@ Currently diving deeper into backend engineering and learning Agentic AI.
 ### Links
 
 - 📫 Email: **kalashthakare898@gmail.com**  
-- 📄 Resume: [Click Here](https://portfolio-gules-chi-84.vercel.app/resume/resume.pdf)  
+- 📄 Resume: [Click Here](https://me-rho-ruby.vercel.app/resume.pdf)  
 - 🌐 Portfolio: [Click Here](https://me-rho-ruby.vercel.app/)
 
 ---
