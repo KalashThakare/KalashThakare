@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Kalash Thakare</h1>
-<h3 align="center"> Backend Engineer </h3>
+<h1 align="center">Hi, I'm Ƙalash Thakare ⚓︎</h1>
+<h3 align="center"> Backend Engineer ☯︎ </h3>
 
 ---
 
-### About Me
+### ꫝbout ϻe
 
 Backend-focused developer who enjoys building systems that care about code quality, observability, and how things age over time. I like working on event-driven workflows, background jobs, and tools that help developers actually understand their code, not just ship it.
 
@@ -14,7 +14,7 @@ Currently diving deeper into backend engineering and learning Agentic AI.
 
 ---
 
-### Links
+### ᥨinks
 
 - 📫 Email: **kalashthakare898@gmail.com**  
 - 📄 Resume: [Click Here](https://me-rho-ruby.vercel.app/resume.pdf)  
@@ -22,7 +22,7 @@ Currently diving deeper into backend engineering and learning Agentic AI.
 
 ---
 
-### 🛠️ Languages & Tools
+### ᥨanguages & ᝨools ﾒ
 
 <p align="left">
   <!-- Core Backend -->
