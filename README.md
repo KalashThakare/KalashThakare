@@ -32,10 +32,12 @@ Currently diving deeper into backend engineering and learning Agentic AI.
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.java.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   </a>&nbsp;&nbsp;&nbsp;
-
   <!-- Databases & Backend Services -->
   <a href="https://www.postgresql.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
@@ -46,12 +48,17 @@ Currently diving deeper into backend engineering and learning Agentic AI.
   <a href="https://supabase.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase" width="40" height="40"/>
   </a>&nbsp;&nbsp;&nbsp;
-
   <!-- Queues / Background Processing -->
   <a href="https://docs.bullmq.io" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="BullMQ" width="40" height="40"/>
   </a>&nbsp;&nbsp;&nbsp;
-
+  <!-- AI/LLM Frameworks -->
+  <a href="https://www.langchain.com" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="LangChain" width="40" height="40"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://langchain-ai.github.io/langgraph/" target="_blank">
+    <img src="https://img.shields.io/badge/LangGraph-🦜🔗-blue?style=for-the-badge" alt="LangGraph" height="40"/>
+  </a>&nbsp;&nbsp;&nbsp;
   <!-- Frontend Basics -->
   <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
