@@ -5,11 +5,11 @@
 
 ### ꫝbout ϻe
 
-Backend-focused developer who enjoys building systems that care about code quality, observability, and how things age over time. I like working on event-driven workflows, background jobs, and tools that help developers actually understand their code, not just ship it.
+Backend-focused developer who enjoys building systems that care about code quality, observability, and how things age over time. I like working on event driven workflows, background jobs, and tools that help developers actually understand their code, not just ship it.
 
-If you’re curious, have questions, or just want to talk systems—feel free to drop me an email. Want to know me better? My portfolio is right below.
+If you’re curious, have questions, or just want to talk systems feel free to drop me an email. Want to know me better? My portfolio is right below.
 
-I love football, but somehow ended up coding instead—and the rest, you know how it goes.
+I love football, but somehow ended up coding instead and the rest, you know how it goes.
 Currently diving deeper into backend engineering and learning Agentic AI.
 
 ---
