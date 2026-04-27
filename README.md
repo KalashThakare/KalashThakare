@@ -17,7 +17,7 @@ Currently diving deeper into backend engineering and learning Agentic AI.
 ### ᥨinks
 
 - 📫 Email: **kalashthakare898@gmail.com**  
-- 📄 Resume: [Click Here](https://kalasht.vercel.app/resume.pdf)  
+- 📄 Resume: [Click Here](https://kalasht.vercel.app/backend.pdf)  
 - 🌐 Portfolio: [Click Here](https://kalasht.vercel.app/)
 
 ---
