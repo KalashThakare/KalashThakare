@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ƙalash Thakare </h1>
+<h1 align="center">Hi, I'm Ƙalash </h1>
 <h3 align="center"> Backend Engineer ⚓︎ </h3>
 
 ---
